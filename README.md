@@ -1,6 +1,8 @@
 # PIANETHOR
 Ever wanted to play classical piano without knowing anything about music? Now you can
 
+![DSC_0096 (2)](https://github.com/user-attachments/assets/520c0c13-39a0-4eca-ae8f-23cba2274d75)
+
 [See the example video on YouTube](https://youtu.be/YS5QBqhOpKc)
 
 [See the first explanation video on YouTube](https://youtu.be/Q1QKWW2SMzw)
@@ -21,9 +23,20 @@ I've built this project using:
 Lots of Arduino cables to connect everything together(or you can just simply solder them)
 
 ## How to prepare the leds
-You need to cut 2 of the 74 leds in order to make 6 groups of 12 leds each(cut them at the end, at the opposite side of the connector)
-Solder 3 wires between each group to adjust the LEDs so that each LED correspond to a tile of a piano key.
-Isolate the excessive 2 wires that aren't in the connector(those are for an external power supply, we don't nned one)
+### 1. You need to cut 2 of the 74 leds in order to make 6 groups of 12 leds each: a strip of led has only one end with the connector and other 2 extra cables, you don't need to cut that but the opposite end (they would be the last 2 leds)
+Isolate the excessive 2 wires that aren't in the connector(those are for an external power supply, we don't need one)
+
+![20251231_162234](https://github.com/user-attachments/assets/a80b8f44-906b-40e1-a6ac-1739f6f006c6)
+
+### 2. After cutting the last 2 leds you can proceed cutting 6 groups of 12 leds
+
+![20251231_163002](https://github.com/user-attachments/assets/d87da080-e738-427e-be4e-09b1870e3c3f)
+
+### 3. Solder 3 wires of the correct length between each group to adjust the LEDs so that each LED correspond to a tile of a piano key.
+
+![20251231_163959](https://github.com/user-attachments/assets/bf42e8e5-bf01-4562-9ef6-6875d42618d3)
+
+### 4. Eventually you can put some hot glue in the wires you just have soldered for more stability
 
 # How to connect everything together
 ##  Connections ESP32 → LED Strip Connector
