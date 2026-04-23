@@ -7,10 +7,10 @@ Ever wanted to play classical piano without knowing anything about music? Now yo
 
 [See the first explanation video on YouTube](https://youtu.be/Q1QKWW2SMzw)
 
-Soon will upload more info on how to make everything!
 
 ### **By following this guide, you acknowledge that you are responsible for your own safety and actions. I am not liable for any injuries, accidents, or damages that may occur while assembling the project, whether to yourself, others, or any objects. This guide involves the use of tools such as scissors and a soldering iron, which can pose risks if not handled properly. Always take necessary precautions, work in a safe environment, and ensure you have the proper skills and equipment. Proceed at your own risk.**
 
+[YOU CAN FIND THE DETAILED GUIDE HERE <----------------------------------------------------------------------------------------------------------](https://hackaday.io/project/205563-pianethor)
 
 ## Hardware
 I've built this project using:
